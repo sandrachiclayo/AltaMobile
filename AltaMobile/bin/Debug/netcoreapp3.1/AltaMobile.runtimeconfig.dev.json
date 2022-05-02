@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MidasM2022\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MidasM2022\\.nuget\\packages"
+    ]
+  }
+}
