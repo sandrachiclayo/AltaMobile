@@ -53,7 +53,7 @@ namespace AltaMobile
                 mainPage.RepeatPw("Abcd1234");
                 mainPage.ClickContinue();
                 string textoprueba = mainPage.text_logueado.GetAttribute("value");
-                test.Log(Status.Info,"El valor del texto es: "+textoprueba);
+                test.Log(Status.Info,"El valor del texto e: "+textoprueba);
                 //Assert.IsTrue(textoprueba== "Usuario logueado");
                 
 
