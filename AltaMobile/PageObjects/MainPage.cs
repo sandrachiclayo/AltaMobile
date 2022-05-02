@@ -7,6 +7,8 @@ using OpenQA.Selenium.Remote;
 using OpenQA.Selenium.Support.PageObjects;
 
 
+
+
 namespace AltaMobile.PObjects
 {
     public class MainPage
